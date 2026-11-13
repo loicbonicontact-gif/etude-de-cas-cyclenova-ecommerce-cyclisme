@@ -1,2 +1,7 @@
 .DS_Store
 .PROGRESS.md
+# fichiers de travail gardés en local seulement (pas dans le livrable Drive)
+DONNEES/
+graphique_*.png
+ventes_valides_bc06.csv
+BC04_Partie5_Script_Video.md
